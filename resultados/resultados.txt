@@ -1,0 +1,5 @@
+
+Filas 10| Columnas 10| Minas 10| Tiempo 9| Botones destapados 64
+Filas 10| Columnas 10| Minas 10| Tiempo 1| Botones destapados 0
+Filas 10| Columnas 10| Minas restantes 0| Tiempo 1| Botones destapados 0
+Filas 10| Columnas 10| Minas 30| Tiempo 1| Botones destapados 0| Botones marcados 0
